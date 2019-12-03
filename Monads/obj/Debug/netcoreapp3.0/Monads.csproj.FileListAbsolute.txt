@@ -1,0 +1,13 @@
+C:\Users\willian.velhos\Desktop\Monads\Monads\bin\Debug\netcoreapp3.0\Monads.exe
+C:\Users\willian.velhos\Desktop\Monads\Monads\obj\Debug\netcoreapp3.0\Monads.csprojAssemblyReference.cache
+C:\Users\willian.velhos\Desktop\Monads\Monads\obj\Debug\netcoreapp3.0\Monads.AssemblyInfoInputs.cache
+C:\Users\willian.velhos\Desktop\Monads\Monads\obj\Debug\netcoreapp3.0\Monads.AssemblyInfo.cs
+C:\Users\willian.velhos\Desktop\Monads\Monads\bin\Debug\netcoreapp3.0\LanguageExt.Core.dll
+C:\Users\willian.velhos\Desktop\Monads\Monads\obj\Debug\netcoreapp3.0\Monads.csproj.CopyComplete
+C:\Users\willian.velhos\Desktop\Monads\Monads\bin\Debug\netcoreapp3.0\Monads.deps.json
+C:\Users\willian.velhos\Desktop\Monads\Monads\bin\Debug\netcoreapp3.0\Monads.runtimeconfig.json
+C:\Users\willian.velhos\Desktop\Monads\Monads\bin\Debug\netcoreapp3.0\Monads.runtimeconfig.dev.json
+C:\Users\willian.velhos\Desktop\Monads\Monads\bin\Debug\netcoreapp3.0\Monads.dll
+C:\Users\willian.velhos\Desktop\Monads\Monads\bin\Debug\netcoreapp3.0\Monads.pdb
+C:\Users\willian.velhos\Desktop\Monads\Monads\obj\Debug\netcoreapp3.0\Monads.dll
+C:\Users\willian.velhos\Desktop\Monads\Monads\obj\Debug\netcoreapp3.0\Monads.pdb
